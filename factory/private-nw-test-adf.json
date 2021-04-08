@@ -1,0 +1,9 @@
+{
+	"name": "private-nw-test-adf",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9ffaea8-65ed-45ba-8721-28c6726740fa",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
